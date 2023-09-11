@@ -1,0 +1,22 @@
+
+/* niche wale body tag ko hata kar dekho */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding: 16px;
+}
+.intro{
+    padding: 17px 16px;
+    display: flex;
+    background-color: rgb(255, 183, 0);
+}
+
+.intro img{
+    border-radius: 10px;
+}
+.intro h1{
+    margin-left: 85px;
+}
